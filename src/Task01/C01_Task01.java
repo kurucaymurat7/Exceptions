@@ -1,4 +1,4 @@
-package _15_Exceptions.Task01;
+package Task01;
 
 import java.util.Scanner;
 
